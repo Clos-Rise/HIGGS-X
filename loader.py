@@ -2,6 +2,7 @@ import struct
 import torch
 import numpy as np
 
+
 class HGSFormat:
     MAGIC = b'HGS1'
 
